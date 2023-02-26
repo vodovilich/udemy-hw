@@ -1,3 +1,4 @@
 catalyst 3560
 catalyst 2960-x
 catalyst 3650
+juniper ex4800
