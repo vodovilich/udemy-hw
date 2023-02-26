@@ -2,3 +2,5 @@ isr-4431
 asr-1001-x
 mx-80
 mx-480
+hap ac2
+routerboard1488
