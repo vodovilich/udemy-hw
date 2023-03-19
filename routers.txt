@@ -5,3 +5,4 @@ mx-480
 MX-240
 hap ac2
 routerboard1488
+V pizdu eti mikrotiki
