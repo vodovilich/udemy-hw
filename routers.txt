@@ -1,8 +1,1 @@
-isr-4331
-asr-1001-x
-mx-80
-mx-480
-MX-240
-hap ac2
-routerboard1488
-V pizdu eti mikrotiki
+Catalyst 8200-L
